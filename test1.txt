@@ -1,2 +1,2 @@
 testing Gitignore
-Added Cool fetures
+Added 2nd bug fix
