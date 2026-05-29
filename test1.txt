@@ -1,2 +1,4 @@
 testing Gitignore
 Added 2nd bug fix
+testing
+Fixed bug

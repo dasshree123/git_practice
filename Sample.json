@@ -1,2 +1,4 @@
-{ features: Cool_feature
+{ features: Cool_feature,
+fix: Bug_fix
 }
+
